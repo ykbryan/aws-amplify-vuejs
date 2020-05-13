@@ -1,6 +1,6 @@
 # Getting started to build VueJS app and AWS Amplify
 
-The raising trends and love for VueJS is no surprise for many developers. With over [160k stars on Github](https://github.com/vuejs/vue), many developers and companies, including big and small, have been adopting it since the very beginning. With the ease of developing a responsive and impressive frontend application using VueJS, it is no wonder that developers are looking for the _same_ development experience and turning their attentions to cloud services and libraries to automatically spin up and connect the cloud capabilities together.
+The rising trends and love for VueJS is no surprise for many developers. With over [160k stars on Github](https://github.com/vuejs/vue), many developers and companies, including big and small, have been adopting it since the very beginning. With the ease of developing a responsive and impressive frontend application using VueJS, it is no wonder that developers are looking for the _same_ development experience and turning their attentions to cloud services and libraries to automatically spin up and connect the cloud capabilities together.
 
 ![AWS Amplify](docs/amplify-introduction.png 'What is AWS Amplify')
 
@@ -262,6 +262,8 @@ Going back to your terminal, you can proceed by pressing `ENTER` and you should 
 I also went back to the Amplify Console to update my DNS and point vuejs.bryanchua.io to the portal.
 
 ![Amplify Console DNS](docs/amplify-custom-dns.png 'Amplify Console DNS')
+
+`App.vue`
 
 ## What's next
 
